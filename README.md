@@ -15,3 +15,5 @@ Deploy this project (requires sam cli)
 ```
 sam deploy -t target/sam.native.yaml -g
 ```
+
+Sam deploy should tell you the URL to execute.
